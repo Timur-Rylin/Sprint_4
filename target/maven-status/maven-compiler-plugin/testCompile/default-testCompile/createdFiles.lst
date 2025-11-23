@@ -1,7 +1,0 @@
-ru\yandex\samokat\pages\MainPage.class
-ru\yandex\samokat\tests\NavigationTest.class
-ru\yandex\samokat\tests\OrderTest.class
-ru\yandex\samokat\pages\TrackOrderPage.class
-ru\yandex\samokat\tests\FaqTest.class
-ru\yandex\samokat\pages\OrderPage.class
-ru\yandex\samokat\config\WebDriverConfig.class
